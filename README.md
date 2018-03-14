@@ -1,2 +1,2 @@
-# forecast-android-kotlin-no-history
-
+# Forecast
+See Assignment.pdf for info.
